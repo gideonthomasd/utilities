@@ -9,3 +9,6 @@ yay -S brother-dcp7055
 sudo pacman -S cups gutenprint cups-pdf gtk3-print-backends nmap
 sudo systemctl enable org.cups.cupsd.service
 sudo systemctl start org.cups.cupsd.service
+
+
+##Go to http://localhost:631/ and add the printer
